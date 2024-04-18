@@ -1,0 +1,24 @@
+{
+  "name": "hog-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "node-sass": "sass -w scss/:dist/css/"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/carlamontani/hog-test.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/carlamontani/hog-test/issues"
+  },
+  "homepage": "https://github.com/carlamontani/hog-test#readme",
+  "dependencies": {
+    "node-sass": "^9.0.0"
+  }
+}
